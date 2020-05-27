@@ -1,0 +1,12 @@
+E:\Учёба\Программирование\USRS1-master (1)\USRS1-master\Proekt Moyo\bin\Debug\Proekt Moyo.exe.config
+E:\Учёба\Программирование\USRS1-master (1)\USRS1-master\Proekt Moyo\bin\Debug\Proekt Moyo.exe
+E:\Учёба\Программирование\USRS1-master (1)\USRS1-master\Proekt Moyo\bin\Debug\Proekt Moyo.pdb
+E:\Учёба\Программирование\USRS1-master (1)\USRS1-master\Proekt Moyo\bin\Debug\Proekt Moyo.xml
+E:\Учёба\Программирование\USRS1-master (1)\USRS1-master\Proekt Moyo\obj\Debug\Proekt Moyo.vbprojAssemblyReference.cache
+E:\Учёба\Программирование\USRS1-master (1)\USRS1-master\Proekt Moyo\obj\Debug\Proekt_Moyo.Form1.resources
+E:\Учёба\Программирование\USRS1-master (1)\USRS1-master\Proekt Moyo\obj\Debug\Proekt_Moyo.Form2.resources
+E:\Учёба\Программирование\USRS1-master (1)\USRS1-master\Proekt Moyo\obj\Debug\Proekt_Moyo.Resources.resources
+E:\Учёба\Программирование\USRS1-master (1)\USRS1-master\Proekt Moyo\obj\Debug\Proekt Moyo.vbproj.GenerateResource.cache
+E:\Учёба\Программирование\USRS1-master (1)\USRS1-master\Proekt Moyo\obj\Debug\Proekt Moyo.exe
+E:\Учёба\Программирование\USRS1-master (1)\USRS1-master\Proekt Moyo\obj\Debug\Proekt Moyo.xml
+E:\Учёба\Программирование\USRS1-master (1)\USRS1-master\Proekt Moyo\obj\Debug\Proekt Moyo.pdb
